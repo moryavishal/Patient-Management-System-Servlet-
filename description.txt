@@ -1,0 +1,21 @@
+Title: online survey System(Patient management)
+
+Description:
+The Patient Management System is an online tool that enables healthcare providers to store and manage patient records with ease. This system has been developed using Java Servlet and MySQL database to provide a reliable, scalable, and secure platform.
+
+With this system, healthcare providers can keep track of patient information such as medical history, diagnoses, treatment plans, appointments, medications, and billing details. This allows providers to manage their workload efficiently and ensure accurate and up-to-date records of patient care.
+
+The application has an intuitive and user-friendly interface, making it simple for healthcare providers to access and navigate patient information. The system also has robust security features, including encrypted patient data and role-based access control to safeguard patient information.
+
+Target Audience:
+The Patient Management System is aimed at healthcare providers including physicians, nurses, and administrative staff. It is especially useful for medical facilities such as hospitals, clinics, and private practices that deal with large volumes of patient data.
+
+Key Features:
+
+Easy-to-use interface for accessing patient information and managing patient records
+Secure login and role-based access control to protect patient information
+Comprehensive patient records management including medical history, diagnoses, treatment plans, appointments, medications, and billing details
+Appointment scheduling and reminders to reduce waiting times and enhance the patient experience
+Medication tracking to ensure timely and accurate administration of medication
+Billing information management for efficient invoicing and payment tracking.
+Overall, the Patient Management System is an indispensable tool for healthcare providers who seek to streamline the management of patient records, improve communication, and deliver high-quality patient care.
